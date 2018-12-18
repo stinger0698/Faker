@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DTO1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <intField>25798736</intField>
+  <floatField>25798736</floatField>
+  <byteField>80</byteField>
+  <charField>43088</charField>
+  <dat>0977-04-11T12:41:36.196608</dat>
+  <str>gmyB&gt;T[lA,E'aE{D</str>
+  <array>
+    <int>122114727</int>
+    <int>122114727</int>
+    <int>122114727</int>
+    <int>122114727</int>
+    <int>122114727</int>
+  </array>
+  <dto2>
+    <dto1>
+      <intField>122114727</intField>
+      <floatField>122114728</floatField>
+      <byteField>167</byteField>
+      <charField>21159</charField>
+      <dat>0104-11-16T17:24:02.6560512</dat>
+      <str>{</str>
+      <array>
+        <int>122114727</int>
+        <int>122114727</int>
+        <int>122114727</int>
+        <int>122114727</int>
+        <int>122114727</int>
+      </array>
+      <dto2>
+        <BoolProperty>false</BoolProperty>
+      </dto2>
+    </dto1>
+    <BoolProperty>false</BoolProperty>
+  </dto2>
+</DTO1>
